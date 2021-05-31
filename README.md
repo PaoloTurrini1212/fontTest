@@ -13,6 +13,7 @@ The displayed text is editable.
 The 'Sample' button displays an array of alphanumeric and punctuation characters.
 
 The 'Unicode' button shows all Unicode characters from 0000 to 9999.
-Warning: the Unicode feature is experimental:
+
+*Warning:* the Unicode feature is experimental:
 - most fonts don't have a glyph for many Unicode characters;
 - the first lines can get messy as some characters represent control codes.
