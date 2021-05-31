@@ -1,0 +1,314 @@
+Agency FB			sans
+Alef				sans
+Algerian			fancy
+Amiri				serif
+Amiri Quran			other
+Arial				sans
+Arial Black			sans
+Arial Narrow			sans
+Arial Rounded MT Bold		sans
+Bahnschrift			sans
+Baskerville Old Face		serif
+Bauhaus 93			fancy
+Bell MT				serif
+Berlin Sans FB			sans
+Berlin Sans FB Demi		sans
+Bernard MT Condensed		serif
+Blackadder ITC			fancy
+Bodoni MT			serif
+Bodoni MT Black			serif
+Bodoni MT Condensed		serif
+Bodoni MT Poster Compressed	serif
+Book Antiqua			serif
+Bookman Old Style		serif
+Bookshelf Symbol 7		other
+Bradley Hand ITC		fancy
+Britannic Bold			serif
+Broadway			fancy
+Brush Script MT			fancy
+Caladea				serif
+Calibri				sans
+Calibri Light			sans
+Californian FB			serif
+Calisto MT			serif
+Cambria				serif
+Cambria Math			serif
+Candara				sans
+Candara Light			sans
+Carlito				sans
+Castellar			fancy
+Centaur				serif
+Century				serif
+Century Gothic			sans
+Century Schoolbook		serif
+Chiller				fancy
+Colonna MT			fancy
+Comic Sans MS			sans
+Consolas			mono
+Constantia			serif
+Cooper Black			serif
+Copperplate Gothic Bold		serif
+Copperplate Gothic Light	serif
+Corbel				sans
+Corbel Light			sans
+Courier New			mono
+Curlz MT			fancy
+David CLM			serif
+David Libre			serif
+DejaVu Math TeX Gyre		serif
+DejaVu Sans			sans
+DejaVu Sans Condensed		sans
+DejaVu Sans Light		sans
+DejaVu Sans Mono		mono
+DejaVu Serif			serif
+DejaVu Serif Condensed		serif
+Dialog				sans
+DialogInput			mono
+Ebrima				sans
+Edwardian Script ITC		fancy
+Elephant			serif
+EmojiOne Color			other
+EngraverFontExtras		other
+EngraverFontSet			other
+Engravers MT			serif
+EngraverTextH			other
+EngraverTextNCS			other
+EngraverTextT			other
+EngraverTime			other
+Eras Bold ITC			sans
+Eras Demi ITC			sans
+Eras Light ITC			sans
+Eras Medium ITC			sans
+Felix Titling			serif
+Footlight MT Light		serif
+Forte				fancy
+Frank Ruehl CLM			serif
+Frank Ruehl Hofshi		serif
+Franklin Gothic Book		sans
+Franklin Gothic Demi		sans
+Franklin Gothic Demi Cond	sans
+Franklin Gothic Heavy		sans
+Franklin Gothic Medium		sans
+Franklin Gothic Medium Cond	sans
+Freestyle Script		fancy
+French Script MT		fancy
+Gabriola			fancy
+Gadugi				sans
+Garamond			serif
+Gentium Basic			serif
+Gentium Book Basic		serif
+Georgia				serif
+Gigi				fancy
+Gill Sans MT			sans
+Gill Sans MT Condensed		sans
+Gill Sans MT Ext Condensed Bold	sans
+Gill Sans Ultra Bold		sans
+Gill Sans Ultra Bold Condensed	sans
+Gloucester MT Extra Condensed	serif
+Goudy Old Style			serif
+Goudy Stout			serif
+Haettenschweiler		sans
+Harlow Solid Italic		fancy
+Harrington			fancy
+High Tower Text			serif
+HoloLens MDL2 Assets		other
+Impact				sans
+Imprint MT Shadow		fancy
+Informal Roman			fancy
+Ink Free			fancy
+Italy music			other
+Javanese Text			serif
+Jazz				other
+Jazz Cord			other
+Jazz Perc			other
+Jazz Text			other
+Jazz Text Extended		other
+Jokerman			fancy
+Juice ITC			fancy
+KacstBook			other
+KacstOffice			other
+Kristen ITC			fancy
+Kunstler Script			fancy
+Leelawadee UI			sans
+Leelawadee UI Semilight		sans
+Liberation Mono			mono
+Liberation Sans			sans
+Liberation Sans Narrow		sans
+Liberation Serif		serif
+Linux Biolinum G		sans
+Linux Libertine Display G	serif
+Linux Libertine G		serif
+Lucida Bright			serif
+Lucida Calligraphy		fancy
+Lucida Console			mono
+Lucida Fax			serif
+Lucida Handwriting		fancy
+Lucida Sans			sans
+Lucida Sans Typewriter		sans
+Lucida Sans Unicode		sans
+LyricsHelvetica			other
+LyricsTimes			other
+Maestro				other
+Maestro Percussion		other
+Maestro Wide			other
+Magneto				fancy
+Maiandra GD			fancy
+Malgun Gothic			sans
+Malgun Gothic Semilight		sans
+Marlett				other
+Matura MT Script Capitals	fancy
+Microsoft Himalaya		serif
+Microsoft JhengHei		sans
+Microsoft JhengHei Light	sans
+Microsoft JhengHei UI		sans
+Microsoft JhengHei UI Light	sans
+Microsoft New Tai Lue		sans
+Microsoft Phags Pa		sans
+Microsoft Sans Serif		sans
+Microsoft Tai Le		sans
+Microsoft YaHei			sans
+Microsoft YaHei Light		sans
+Microsoft YaHei UI		sans
+Microsoft YaHei UI Light	sans
+Microsoft Yi Baiti		sans
+MingLiU-ExtB			serif
+MingLiU_HKSCS-ExtB		serif
+Miriam CLM			other
+Miriam Libre			sans
+Miriam Mono CLM			mono
+Mistral				fancy
+Modern No. 20			serif
+Mongolian Baiti			serif
+Monospaced			mono
+Monotype Corsiva		fancy
+MS Gothic			mono
+MS Outlook			other
+MS PGothic			sans
+MS Reference Sans Serif		sans
+MS Reference Specialty		other
+MS UI Gothic			sans
+MT Extra			other
+MV Boli				fancy
+Myanmar Text			sans
+Myriad Pro			sans
+Myriad Pro Cond			sans
+Myriad Pro Light		sans
+Nachlieli CLM			sans
+Niagara Engraved		fancy
+Niagara Solid			serif
+Nirmala UI			sans
+Nirmala UI Semilight		sans
+Noto Kufi Arabic		other
+Noto Mono			mono
+Noto Naskh Arabic		other
+Noto Naskh Arabic UI		other
+Noto Sans			sans
+Noto Sans Arabic		other
+Noto Sans Arabic UI		other
+Noto Sans Armenian		other
+Noto Sans Cond			sans
+Noto Sans Georgian		other
+Noto Sans Hebrew		other
+Noto Sans Lao			other
+Noto Sans Light			sans
+Noto Sans Lisu			other
+Noto Serif			serif
+Noto Serif Armenian		other
+Noto Serif Cond			serif
+Noto Serif Georgian		other
+Noto Serif Hebrew		other
+Noto Serif Lao			other
+Noto Serif Light		serif
+NSimSun				serif
+OCR A Extended			fancy
+Old English Text MT		fancy
+Onyx				serif
+OpenSymbol			other
+Oxygen				sans
+Palace Script MT		fancy
+Palatino Linotype		serif
+Papyrus				fancy
+Parchment			fancy
+Perpetua			serif
+Perpetua Titling MT		serif
+Petrucci			other
+Playbill			serif
+PMingLiU-ExtB			serif
+Poor Richard			serif
+Pristina			fancy
+qtquickcontrols			other
+Rage Italic			fancy
+Ravie				fancy
+Reem Kufi			sans
+Roboto				sans
+Roboto Black			sans
+Roboto Light			sans
+Roboto Medium			sans
+Roboto Thin			sans
+Rockwell			serif
+Rockwell Condensed		serif
+Rockwell Extra Bold		serif
+Rubik				sans
+SansSerif			sans
+Scheherazade			serif
+Script MT Bold			fancy
+Segoe MDL2 Assets		other
+Segoe Print			fancy
+Segoe Script			fancy
+Segoe UI			sans
+Segoe UI Black			sans
+Segoe UI Emoji			sans
+Segoe UI Historic		sans
+Segoe UI Light			sans
+Segoe UI Semibold		sans
+Segoe UI Semilight		sans
+Segoe UI Symbol			sans
+Serif				serif
+Showcard Gothic			fancy
+SimSun				serif
+SimSun-ExtB			serif
+Sitka Banner			serif
+Sitka Display			serif
+Sitka Heading			serif
+Sitka Small			serif
+Sitka Subheading		serif
+Sitka Text			serif
+Snap ITC			fancy
+Source Code Pro			mono
+Source Code Pro Black		mono
+Source Code Pro ExtraLight	mono
+Source Code Pro Light		mono
+Source Code Pro Medium		mono
+Source Code Pro Semibold	mono
+Source Sans Pro			sans
+Source Code Pro Black		sans
+Source Code Pro ExtraLight	sans
+Source Code Pro Light		sans
+Source Code Pro Semibold	sans
+Stencil				serif
+Sylfaen				serif
+Symbol				other
+Tahoma				sans
+Tamburo				other
+tempus Sans ITC			fancy
+Times New Roman			serif
+Trebuchet MS			sans
+Tw Cen MT			sans
+Tw Cen MT Condensed		sans
+Tw Cen MT Condensed Extra Bold	sans
+Verdana				sans
+Viner Hand ITC			fancy
+Vivaldi				fancy
+Vladimir Script			fancy
+Webdings			other
+Wide Latin			serif
+Wingdings			other
+Wingdings 2			other
+Wingdings 3			other
+Yu Gothic			sans
+Yu Gothic Light			sans
+Yu Gothic Medium		sans
+Yu Gothic UI			sans
+Yu Gothic UI Light		sans
+Yu Gothic UI Semibold		sans
+Yu Gothic UI Semilight		sans
